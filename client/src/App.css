@@ -1,0 +1,19 @@
+
+/* App.css */
+.overflow-hidden {
+  max-height: 100vh; /* or any other value you prefer */
+  overflow-y: auto;
+}
+
+
+nav {
+  background-color: #3498db;
+}
+
+nav a {
+  color: #fff;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
